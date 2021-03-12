@@ -1,0 +1,48 @@
+.hero{
+    /* max-width: 1200px; */
+    background-color: #f2f2f2;
+    display: flex;
+    justify-content: space-around;
+}
+.logo h2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 1rem;
+}
+.logo h2:hover{
+    transition: ease .5s;
+    color: coral;
+    cursor: pointer;
+}
+.navegacion{
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+}
+.navegacion a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 1.8rem;
+    padding: 2rem;
+}
+.navegacion a:hover{
+    background-color: white;
+    color: coral;
+}
+@media(max-width:768px){
+    .hero{
+        flex-direction: column;
+    }
+    .logo h2{
+        text-align: center;
+    }
+    .navegacion{
+        justify-content: space-between;
+        flex-direction: column;
+    }
+    .navegacion a{
+        text-align: center;
+        padding: 1rem;
+    }
+}
