@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d853bff.chunk.css",
+    "main.js": "/static/js/main.8b62c069.chunk.js",
+    "main.js.map": "/static/js/main.8b62c069.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6c04afa6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6c04afa6.js.map",
+    "static/js/2.2d02e78f.chunk.js": "/static/js/2.2d02e78f.chunk.js",
+    "static/js/2.2d02e78f.chunk.js.map": "/static/js/2.2d02e78f.chunk.js.map",
+    "static/js/3.40297c32.chunk.js": "/static/js/3.40297c32.chunk.js",
+    "static/js/3.40297c32.chunk.js.map": "/static/js/3.40297c32.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.7d853bff.chunk.css.map": "/static/css/main.7d853bff.chunk.css.map",
+    "static/js/2.2d02e78f.chunk.js.LICENSE.txt": "/static/js/2.2d02e78f.chunk.js.LICENSE.txt",
+    "static/media/pres.css": "/static/media/comprar-libros.1b944f04.jpg",
+    "static/media/img1.348d1eaf.jpg": "/static/media/img1.348d1eaf.jpg",
+    "static/media/img2.10320e3a.jpg": "/static/media/img2.10320e3a.jpg",
+    "static/media/img3.52180176.jpg": "/static/media/img3.52180176.jpg",
+    "static/media/img4.2fd6310c.jpg": "/static/media/img4.2fd6310c.jpg",
+    "static/media/img5.14818f7f.jpg": "/static/media/img5.14818f7f.jpg",
+    "static/media/img6.6bc452a0.jpg": "/static/media/img6.6bc452a0.jpg",
+    "static/media/img7.fb9564a9.jpg": "/static/media/img7.fb9564a9.jpg",
+    "static/media/img8.b589936a.jpg": "/static/media/img8.b589936a.jpg",
+    "static/media/img9.10891170.jpg": "/static/media/img9.10891170.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c04afa6.js",
+    "static/js/2.2d02e78f.chunk.js",
+    "static/css/main.7d853bff.chunk.css",
+    "static/js/main.8b62c069.chunk.js"
+  ]
+}
